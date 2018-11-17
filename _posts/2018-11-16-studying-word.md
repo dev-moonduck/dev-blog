@@ -149,14 +149,23 @@ Example) Changing the value would detract from the theory of.
 ***Ignorant***  
 무식한, 무지한, 무지막지한  
 
+***Immersion***  
+(액체 속에) 담금, 몰두, 몰입  
+
 ***Implication***  
 영향, 함축, 암시, 연루  
+
+***In spirit***  
+마음속으로  
 
 ***Interoperability***  
 상호 호환성  
 
 ***In that sense***  
 그러한 면에서  
+
+***Invariant***  
+변치 않는  
 
 ### J
 
@@ -213,6 +222,9 @@ Example) Changing the value would detract from the theory of.
 짤막한 농담  
 
 ### P
+***Permeates***  
+스며들다, 침투하다, 퍼지다  
+
 ***Perspective***  
 관점, 시각, 균형감, 원근법, 전망  
 
@@ -317,6 +329,9 @@ example) It was running out of steam, so new was needed
 모습을 드러내다, 나타나다, (어떠한 방식으로)되다, 되어가다, ~으로 밝혀지다  
 
 ### U
+***Ubiquitous***
+어디서나 있는, 흔한
+
 ***Unsound***  
 부적절한, 오류가 있는, 믿을 수 없는, 견고하지 않은, 불안정한  
 
