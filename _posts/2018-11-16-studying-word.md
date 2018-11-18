@@ -294,6 +294,21 @@ confer) ***take a fancy to sb/st*** : (뚜렷한 이유 없이) ~이 좋아지�
 ***One-liner***  
 짤막한 농담  
 
+***Own***  
+자신의, 자신의 것(소유)  
+example) ***Is the car your own?***  
+직접 ~한  
+example) ***He has to cook his own meals***  
+소유하다  
+example) ***I don't own anything of any value*** : 나는 어떠한 귀중품도 소지하고 있지 않다  
+인정하다  
+example) ***He owned to a feeling of guilt*** : 그는 죄책감을 느낀다고 인정했다.  
+confer) ***come into your/its own*** : 진가를 발휘하다  
+confer) ***get your own back (on sb)*** : ~에게 보복하다  
+confer) ***hold your own (against sb)*** : (공격/경쟁에 맞서) 꿋꿋이 버티다  
+confer) ***behave/act as if you own the place*** : 주인 행세를 하다.  
+
+
 ### P
 ***Permeates***  
 스며들다, 침투하다, 퍼지다  
@@ -382,6 +397,10 @@ confer) ***reason with sb*** : (논리적으로 설명해서) ~를 설득하다
 보여주다, 제시하다  
 묘사하다, 기술하다  
 제기하다  
+
+***Retain***  
+유지하다  
+보유하다, 얻다  
 
 ***Roughly***  
 대략, 거의, 거칠게, 꺼칠꺼칠하게  
