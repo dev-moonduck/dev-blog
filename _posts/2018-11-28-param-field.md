@@ -1,4 +1,4 @@
-# 생성자 파라미터와 필드
+# 생성자 파라미터와 필드(Internal state)
 `class`를 작성할 때 생성자 파라미터는 선언에 따라 필드와 Getter 자동 생성 여부가 달라진다. 아래의 예시의 java code로 변환 결과를 통해 이해하자
 
 ## 1. 생성자 Parameter가 생성자 이외에 쓰이지 않는 경우
@@ -120,3 +120,5 @@ class FooWithUsedPrivateVar(private var bar: String) {
 ![foo-with-used-private-var](../assets/images/foo-with-used-private-var.png)  
 8과 같은 결과다. 다만 scope가 private이다.
 
+# Index
+## [Previous](./2018-11-28-constructor.md) | [Next]()

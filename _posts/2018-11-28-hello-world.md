@@ -1,4 +1,4 @@
-# Java 개발자가 Scala입문하기
+# Hello world
 
 여기서는 Compiled Scala code 작성을 위주로 다룰 것이다.
 
@@ -32,4 +32,7 @@ Java에서는 `public`이라는 접근제한자가 붙어있고 default가 packa
 함수 정의 키워드인 `def`가 별도로 있다는 점도 확인할 수 있을 것이다.
 
 # Reference
-[Joel Abrahamsson's article for learning scala](http://joelabrahamsson.com/learning-scala-part-three-executing-scala-code/)
+- [Joel Abrahamsson's article for learning scala](http://joelabrahamsson.com/)
+
+# Index
+## [Next](./2018-11-28-var-definition.md)
