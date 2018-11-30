@@ -121,4 +121,4 @@ class FooWithUsedPrivateVar(private var bar: String) {
 8과 같은 결과다. 다만 scope가 private이다.
 
 # Index
-## [Previous](./2018-11-28-constructor.md) | [Next]()
+## [Previous](./2018-11-28-constructor.md) | [Next](./2018-11-29-method.md)
