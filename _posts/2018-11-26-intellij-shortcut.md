@@ -33,5 +33,13 @@ Quick fix : `Alt` + `Enter`
 Rename : `Shift` + `F6`  
 ![shift-f6](../assets/images/shift-f6.gif)
 
+새 파일 생성 : `Ctrl` + `Alt` + `Insert`
+![new-file](../assets/images/new-file.gif)
+
+에디터 탭 이동 : `Alt` + `Left`|`Right`  
+![alt-left-right](../assets/images/alt-left-right.gif)
+
+![](../assets/images/.gif)
+![](../assets/images/.gif)
 ![](../assets/images/.gif)
 

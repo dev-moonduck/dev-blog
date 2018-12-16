@@ -43,6 +43,12 @@
 착각하게 하다  
 거짓임을 보여주다  
 
+***Betray***  
+(적에게 정보를)넘겨주다, 팔아먹다  
+배신하다  
+(원칙을) 저버리다  
+(정보, 감정을) 무심코 노출시키다  
+
 ***Bogus***  
 가짜의, 위조의  
 example) ***a bogus member*** : 유령회원  
@@ -56,19 +62,27 @@ example) ***a bogus company*** : 유령회사
 ***Caveat***  
 (특정 지시를 따르라는) 통고, 경고  
 
-***Coalesce***  
-(큰 덩어리로) 합치다  
-*confer*) ***coalesce into*** : ~으로 합동하다  
-
 ***Clutter***  
 (너무 많은 것을 어수선하게) 채우다  
 잡동사니, 어수선함  
+
+***Coalesce***  
+(큰 덩어리로) 합치다  
+*confer*) ***coalesce into*** : ~으로 합동하다  
 
 ***coefficient***  
 계수
 
 ***cohesive***  
 화합하는  
+
+***Compel***  
+강요하다, ~하게 만들다  
+(반응을) 자아내다  
+confer) ***Compelling***  
+(흥미로워서) 주목하지 않을 수 없는  
+강렬한  
+설득력 있는  
 
 ***complement***  
 보완하다, 덧붙이다, (필요한) 전체량  
@@ -77,6 +91,7 @@ example) ***a bogus company*** : 유령회사
 ***Comprehensive***  
 포괄적인, 종합적인  
 능력별로 구분하지 않고 한데 몰아넣는  
+*confer*) ***comprehension*** : 이해력, 함축
 
 ***consecutive***  
 연이은, 연달아  
@@ -170,6 +185,12 @@ Example) Changing the value would detract from the theory of.
 ### E
 ***Elsewhere***  
 (어딘가) 다른 곳에서  
+
+***Emerge***  
+(어둠 속 혹은 숨다가)나오다  
+드라나다, 알려지다  
+생겨나다, 부상하다, 부각되다  
+confer) ***Emerging***  최근 생겨난, 최근에 만들어진
 
 ***Entangle***  
 얽어매다, ~를 ~와 얽히게 하다  
