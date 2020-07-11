@@ -4,24 +4,24 @@ tags: 태그
 tagcloud: 태그클라우드
 prev: 이전
 next: 다음
-prev-post: '이전포스트：'
-next-post: '다음포스트：'
-search-load: 正在加载搜索结果，请稍等。
+prev-post: '이전：'
+next-post: '다음：'
+search-load: 검색중...
 comment: 댓글
 contents: 컨텐츠
-archive_a: 归档
-archive_b: 归档：%s
+archive_a: 아카이브
+archive_b: 아카이브：%s
 archive_date: "%Y 년 %m 월"
-page: 제 %d 장
+page: 페이지 %d
 recent_posts: 최근포스트
 menu: 메뉴
 links: 링크
 weibo: 新浪微博
-rss: RSS 订阅
+rss: RSS
 doubanshow: 豆瓣秀
-github-card: Github 名片
-showsidebar: 显示侧边栏
-hidesidebar: 隐藏侧边栏
-updated: 更新日期
-totop: 返回顶部
-datepublished: 发表于
+github-card: Github 카드
+showsidebar: 사이드바 보기
+hidesidebar: 사이드바 감추기
+updated: 업데이트 된 게시물
+totop: 최상단으로
+datepublished: 발행날짜
