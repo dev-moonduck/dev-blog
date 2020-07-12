@@ -1,7 +1,7 @@
 ---
-title: Categories
-date: 2013-12-24 23:30:09
-categories: "Hadoop Ecosystem"
+title: Hadoop Yarn 용어 정리
+date: 2020-07-11 23:30:09
+categories: "HadoopEcosystem"
 tags: ["Hadoop Yarn", "Hadoop"]
 ---
 
