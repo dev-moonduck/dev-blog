@@ -6,7 +6,7 @@ tags: ["Hadoop Yarn", "Hadoop"]
 ---
 
 # Hadoop Yarn
-![Yarn architecture](../images/yarn_architecture.gif)
+![Yarn architecture](/images/yarn_architecture.gif)
 
 # 용어 정리
 ## Resource Manager

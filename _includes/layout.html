@@ -4,7 +4,7 @@
     <header>
         {% include _partial/header.html %}
     </header>
-    <div id="container">
+    <div id="__container">
       {{ content }}
       {% assign item = page %}
       {% assign table = true %}
@@ -20,7 +20,7 @@
         <header>
           {% include _partial/header.html %}
         </header>
-        <div id="container">
+        <div id="__container">
           {{ content }}
         </div>
         <footer>{% include _partial/footer.html %}</footer>
@@ -33,7 +33,7 @@
       <header>
         {% include _partial/header.html %}
       </header>
-      <div id="container">
+      <div id="__container">
       {% include _partial/search.html %}
       </div>
       <footer>{% include _partial/footer.html %}</footer>
@@ -46,7 +46,7 @@
       <header>
         {% include _partial/header.html %}
       </header>
-      <div id="container">
+      <div id="__container">
         {{ content }}
       </div>
       <footer>{% include _partial/footer.html %}</footer>
@@ -59,7 +59,7 @@
     <header>
         {% include _partial/header.html %}
     </header>
-    <div id="container">
+    <div id="__container">
       {{ content }}
       {% assign item = page %}
       {% assign table = false %}
